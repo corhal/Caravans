@@ -1,0 +1,7 @@
+name,weight,baseCost
+water,10,10
+food,30,40
+iron,80,150
+steel,70,300
+crossbow,30,100
+sword,50,200
